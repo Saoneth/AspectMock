@@ -15,7 +15,7 @@
        },
     "require": {
         "php": "^8.0",
-        "jimbonator/parser-reflection": "^3.0",
+        "goaop/parser-reflection": "^3.0",
         "phpunit/phpunit": "^9.5",
         "symfony/finder": "^4.4 | ^5.4 | ^6.0"
     },
