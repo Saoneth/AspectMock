@@ -15,7 +15,7 @@
        },
     "require": {
         "php": "^8.0",
-        "goaop/framework": "^3.0",
+        "jimbonator/parser-reflection": "^3.0",
         "phpunit/phpunit": "^9.5",
         "symfony/finder": "^4.4 | ^5.4 | ^6.0"
     },
@@ -24,5 +24,11 @@
         "codeception/verify": "^2.2",
         "codeception/specify": "^2.0",
         "consolidation/robo": "^3.0"
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/jimbonator/parser-reflection.git"
+        },
+    ]
 }
